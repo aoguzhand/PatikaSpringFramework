@@ -2,5 +2,5 @@ package com.aoguzhand.utils;
 
 public class PermaLink {
 
-    //github:
+    //github: https://github.com/aoguzhand/PatikaSpringFramework.git
 }
